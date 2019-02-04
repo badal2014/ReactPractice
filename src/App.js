@@ -19,7 +19,7 @@ class App extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Leabadalt
+            verigfir
           </a>
         </header>
         <Box/>
